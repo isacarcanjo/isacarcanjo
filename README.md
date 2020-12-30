@@ -1,23 +1,7 @@
-### Hi there 👋
+### Isac Arcanjo 👋
 
-Contact-me on:
-[LinkedIn](https://linkedin.com/in/tuliofaria)
 
-Shortcut to https://isacarcanjo.dev
-[![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Fisacarcanjo.dev)](https://isacarcanjo.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Isac%20Arcanjo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-arcanjo-098a0b164/)](https://www.linkedin.com/in/isac-arcanjo-098a0b164/)
+[![Gmail Badge](https://img.shields.io/badge/-arcanjo.fiec@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arcanjo.fiec@gmail.com)](mailto:arcanjo.fiec@gmail.com)
 
 ![Isac Arcanjo's github stats](https://github-readme-stats.vercel.app/api?username=isacarcanjo&show_icons=true&theme=radical)
-<!--
-**isacarcanjo/isacarcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
