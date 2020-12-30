@@ -1,6 +1,4 @@
-### Isac Arcanjo,
-My name is Isac Arcanjo and I´m experienced (+5 years) fullstack developer living in Brazil and working remotely for companies around the globe.
-
+### 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isacarcanjo&style=plastic&label=Stalker+visits" alt="isacarcanjo" /> </p>
 <p align="center">
 <a href="https://twitter.com/brigidojosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brigidojosue" height="30" width="30" /></a>
