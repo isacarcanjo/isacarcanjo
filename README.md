@@ -1,10 +1,10 @@
 ### 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isacarcanjo&style=plastic&label=Stalker+visits" alt="isacarcanjo" /> </p>
-<p align="center">
-<a href="https://twitter.com/brigidojosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brigidojosue" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/isacarcanjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isacarcanjo" height="30" width="30" /></a>
-<a href="https://medium.com/@josue.brigido1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@josue.brigido1" height="30" width="30" /></a>
-</p>
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Isac%20Arcanjo-548931?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-arcanjo-098a0b164/)](https://www.linkedin.com/in/isac-arcanjo-098a0b164/)
+[![Gmail Badge](https://img.shields.io/badge/-arcanjo.fiec@gmail.com-548931?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arcanjo.fiec@gmail.com)](mailto:arcanjo.fiec@gmail.com)
+
+
 <h1 align="center">👋 Hi, I'm Isac Arcanjo</h1>
 <h3 align="center">I'm a full-stack web developer and I´m experienced (+5 years) fullstack developer living in Brazil and working remotely for companies around the globe.
 </h3>
