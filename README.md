@@ -3,7 +3,7 @@
 Contact-me on:
 [LinkedIn](https://linkedin.com/in/tuliofaria)
 
-Shortcut to https://TulioFaria.dev
+Shortcut to https://isacarcanjo.dev
 [![My website](https://dyn-qrcode.vercel.app/api?url=https%3A%2F%2Fisacarcanjo.dev)](https://isacarcanjo.dev)
 
 ![Isac Arcanjo's github stats](https://github-readme-stats.vercel.app/api?username=isacarcanjo&show_icons=true&theme=radical)
