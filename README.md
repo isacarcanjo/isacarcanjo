@@ -1,5 +1,6 @@
-<p align="center" width="100%">
-    <img style="padding: 20px;" width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-    <img style="padding: 20px;" width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-    <img style="padding: 20px;" width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
+```html
+|                                               |                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img width="100%" src="photos/pranksta1.jpg"> | <img width="100%" src="photos/pranksta2.jpg"> | <img width="100%" src="photos/pranksta3.jpg"> |
+| <img width="100%" src="photos/pranksta4.jpg"> | <img width="100%" src="photos/pranksta5.jpg"> | <img width="100%" src="photos/pranksta6.jpg"> |
+```
