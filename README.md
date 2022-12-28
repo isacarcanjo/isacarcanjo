@@ -16,6 +16,11 @@
 
 - 💬 Ask me about **react, python, microservice, mobile**
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+<br/>
 <p align="center">
 <p align="left"> 
 <br />
