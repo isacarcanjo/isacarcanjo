@@ -3378,11 +3378,6 @@ width: 75%;
 
 <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-lg-12"><div class="MuiGrid-root jss110 MuiGrid-container">
 <div class="MuiGrid-root" style="height: 200px">
-  <div class="MuiChip-root jss117">
-    <span class="MuiChip-label">
-      <span style="top: -5px; position: relative;">Visitors</span> <img style="margin-top: 7px;" src="https://komarev.com/ghpvc/?username=isacarcanjo&style=&label=:" alt="isacarcanjo" />
-    </span>
-  </div>
   <h1 class="jss112">
     Somes  <strong class="jss113">Products</strong>
   </h1>
@@ -3425,19 +3420,22 @@ width: 75%;
 </div>
 <br/>
 
-<table>
-  <tr>
-    <td valign="top">
-      - 🔭 I’m currently working on [DirecTvGo](https://www.directvgo.com/br/home/)
-      - 🌱 I’m currently learning **the best technologies**
-      - 👯 I’m looking to collaborate on **News projects**
-      - 💬 Ask me about **react, python, microservice, mobile**
-    </td>
-    <td valign="top">
-      <img class="art" src="https://dev-admin.meucarro.app/images/other/art.svg" alt="Dev" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; width: 100%; flex-direction: row;">
+
+  <div style="width: 50%; padding-top: 8em">
+
+  <h2>🔭I’m currently working on <a href="https://www.directvgo.com/br/home/">DirecTvGo</a></h2>
+  <h2>🌱 I’m currently learning <b>the best technologies</b></h2>
+  <h2>👯 I’m looking to collaborate on <b>News projects</b></h2>
+  <h2>💬 Ask me about <b>react, python, microservice, mobile</b></h2>
+  <div style="display: flex; width: 100%; flex-direction: row;">
+  
+  </div>
+  </div>
+  <div style="width: 50%">
+    <img class="art" src="https://dev-admin.meucarro.app/images/other/art.svg" alt="Dev" width="100%"/>
+  </div>
+</div>
 <br/>
 <div style="">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="bubbleG x1"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img class="bubbleG x11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img class="bubbleG x3" src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="bubbleG x4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
