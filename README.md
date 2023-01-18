@@ -16,3 +16,7 @@
 - 👯 I’m looking to collaborate on **News projects**
 
 - 💬 Ask me about **react, python, microservice, mobile**
+
+<p align="center"> 
+  <img src="./the_best.svg" />
+</p>
