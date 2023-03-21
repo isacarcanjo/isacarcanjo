@@ -24,8 +24,8 @@
 <br/>
 <br/>
 
-
-[Solid create](https://www.npmjs.com/package/@isacarcanjo/solid-create)
+## Solid Create
+[NPM](https://www.npmjs.com/package/@isacarcanjo/solid-create)
 
 <p align="center"> 
   <img src="./solidcreate.png" />
