@@ -20,3 +20,9 @@
 <p align="center"> 
   <img src="./the_best.svg" />
 </p>
+
+[Solid create](https://www.npmjs.com/package/@isacarcanjo/solid-create)
+
+<p align="center"> 
+  <img src="./solidcreate.png" />
+</p>
