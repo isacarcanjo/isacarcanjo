@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [DirecTvGo](https://www.directvgo.com/br/home/)
+- 🔭 I’m currently working on new projects
 
 - 🌱 I’m currently learning **the best technologies**
 
